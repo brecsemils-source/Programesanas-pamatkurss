@@ -1,4 +1,4 @@
-# **Programmēšana - pamatkurss
+# **Programmēšana - pamatkurss**
 **Autors**: **Emīls Brečs**
 ## Kā palaist
 1. Atver projekta mapi VS Code.
