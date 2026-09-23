@@ -1,5 +1,5 @@
-# Programmēšana - pamatkurss
-Autors: **Emīls Brečs**
+# **Programmēšana - pamatkurss
+**Autors**: **Emīls Brečs**
 ## Kā palaist
 1. Atver projekta mapi VS Code.
 2. Palaid programmu ar Python komandu.
