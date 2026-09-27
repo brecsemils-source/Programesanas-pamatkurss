@@ -4,7 +4,7 @@
 
 ## Palaišana
 
-Lai palaistu programmu, terminālī raksti komandu:
+Lai palaistu programmu, terminālī uzraksti komandu:
 
 python pd1/kods/sveiciens.py
 
