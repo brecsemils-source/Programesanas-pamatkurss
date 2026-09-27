@@ -6,8 +6,7 @@
 
 Lai palaistu programmu, terminālī raksti komandu:
 
-bash
-kods/sveiciens.py
+python pd1/kods/sveiciens.py
 
 
 ## Ergonomika
