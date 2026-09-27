@@ -16,4 +16,4 @@ python pd1/kods/sveiciens.py
 * Pārliecinies par piemērotu apgaismojumu darba vidē.
 ## Secinājums
 
-Šajā darbā man visgrūtāk bija saprast failu un mapju lokācijas(file paths).
+* Šajā darbā man visgrūtāk bija saprast failu un mapju lokācijas(file paths).
